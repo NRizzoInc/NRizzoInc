@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Matthew Rizzo, but please call me Matt
+### Hi there 👋 I'm Nick Rizzo, an avid nerd who happens to love programming
 
 <!--
 **NRizzoInc/NRizzoInc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
